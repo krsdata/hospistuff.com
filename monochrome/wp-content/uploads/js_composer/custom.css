@@ -1,0 +1,15 @@
+.tslider .cbp-qtcontent img {
+    width: 8%;
+}
+.tslider blockquote footer, .tslider blockquote footer a {
+    font-size: 16px !important;
+    color: #47a3da;
+    text-align: right;
+    margin-right: 10px;
+    font-weight: bold;
+}
+#client-testi {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0% 32%;
+}
