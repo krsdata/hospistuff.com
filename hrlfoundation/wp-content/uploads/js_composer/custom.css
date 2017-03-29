@@ -1,0 +1,151 @@
+.first-background {
+    background-color: #ededed !important;
+}
+.justify {
+    text-align: justify;
+}
+.page-id-95 .wpb_text_column.wpb_content_element {
+    margin-bottom: 15px !important;
+}
+.page-id-378 .vc_gitem-post-data {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+.post h1 {
+    line-height: 24px !important;
+}
+.project-detail p {
+    color: #000 !important;
+    font-family: Open sans;
+    font-size: 14px !important;
+    text-align: justify !important;
+}
+.story > p {
+    color: #000 !important;
+    float: left;
+    font-family: noto sans;
+    font-size: 14px !important;
+    line-height: 24px;
+    width: 100%;
+    margin-bottom: 0;
+}
+.post-desc > p {
+    color: #000 !important;
+    font-size: 13px !important;
+}
+.desc > p {
+    color: #333 !important;
+    font-family: open sans;
+    font-size: 12px;
+    line-height: 20px;
+    margin-top: 20px;
+    text-align: justify !important;
+}
+.post-desc {
+    float: left;
+    position: relative;
+    width: 72%;
+    text-align: justify;
+}
+.single-dict_project .post-desc > p {
+    color: #000;
+    font-family: open sans;
+    font-size: 14px;
+    line-height: 22px;
+    margin: 20px 0;
+}
+.desc > h3 a {
+    color: #656565;
+    font-weight: bold !important;
+}
+.objective {
+    text-align: justify !important;
+color: #ffffff !important;
+font-size: 18px !important;
+}
+.no-top-image {
+   /* background: url('http://hospistuff.com/hrlfoundation/wp-content/uploads/2017/03/parallax2new-1.jpg') !important; */
+    float: left !important;
+    height: 240px !important;
+    width: 100% !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+    background-position: 100% 50% !important;
+}
+.vision-header h4 {
+    font-size: 27px !important;
+    color: #ae9a67 !important;
+    font-weight: bold !important;
+}
+.contact-header h4 {
+    font-size: 27px !important;
+    color: #ae9a67 !important;
+    font-weight: bold !important;
+}
+.witness-heading h4 {
+    font-size: 27px !important;
+    color: #ae9a67 !important;
+    font-weight: bold !important;
+}
+.volunteer-heading h4 {
+    font-size: 27px !important;
+    color: #ae9a67 !important;
+    font-weight: bold !important;
+}
+.page-id-65 .block {
+    padding: 0px;
+}
+.our-project-box .col-md-6 {
+    height: 150px;
+    display: inline-block;
+}
+.witness-12 {
+    display: inline-block;
+}
+.witness-126 {
+    margin-bottom: 14px;
+    display: inline-block;
+}
+.witness-6 {
+    margin-bottom: 14px;
+}
+.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    width: 100%;
+    border: 2px solid #ae9a67;
+    padding: 8px;
+}
+.wpcf7-form-control.wpcf7-text {
+    width: 100%;
+    border: 2px solid #ae9a67;
+    padding: 8px;
+}
+.wpcf7-form-control.wpcf7-textarea {
+    width: 100%;
+    border: 2px solid #ae9a67;
+    padding: 8px;
+}
+.wpcf7-form-control.wpcf7-submit {
+    border: 0px;
+    background-color: #ae9a67;
+    color: #fff;
+    padding: 10px 25px;
+    font-size: 16px;
+}
+.page-id-330 .block {
+    padding: 10px !important;
+}
+.page-id-199 .block {
+    padding: 10px !important;
+}
+.page-id-195 .block {
+    padding: 10px !important;
+}
+.page-id-112 .block {
+    padding: 10px !important;
+}
+.page-id-378 .block {
+    padding: 0px !important;
+}
+.support-banner {
+    background-color: #444 !important;
+}

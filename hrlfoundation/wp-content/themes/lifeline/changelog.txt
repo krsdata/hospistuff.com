@@ -1,0 +1,6 @@
+Fix: Donation Popup Price Button Values
+Fix: bbPress 
+Fix: Custom Fonts setting
+Fix: Successful Stories Loop issue
+Fix: Styling
+Fix: Change Slugs from Id of category selection in all shortcodes

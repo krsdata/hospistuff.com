@@ -1,0 +1,2 @@
+[07-Mar-2017 15:53:23 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 12288 bytes) in /home/hospistuff/public_html/ospreysecuritysolution/wp-content/themes/Avada/includes/class-avada-admin.php on line 429
+[07-Mar-2017 15:53:45 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 12288 bytes) in /home/hospistuff/public_html/ospreysecuritysolution/wp-content/themes/Avada/includes/class-avada-admin.php on line 429
